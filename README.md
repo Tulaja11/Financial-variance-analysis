@@ -1,7 +1,6 @@
 # Financial Performance Variance Analysis (Critical KPI Cost Analytics)
-This project analyzes organizational financial performance by comparing Budget vs Actual spending to identify variances, overspending, and savings.
-
-SQL is used for financial analysis and KPI calculations, while insights are visualized through an interactive Power BI dashboard.
+- This project analyzes organizational financial performance by comparing Budget vs Actual spending to identify variances, overspending, and savings.
+- SQL is used for financial analysis and KPI calculations, while insights are visualized through an interactive Power BI dashboard.
 
 ## Objective
 - Analyze financial performance and detect:
@@ -22,13 +21,12 @@ SQL is used for financial analysis and KPI calculations, while insights are visu
 - Variance tracking helps improve cost control
 
 ## Outcome
-
-The analysis highlights overspending areas, cost drivers, and savings opportunities.
-
-Provides insights that support better budget control and financial decision-making.
+- The analysis highlights overspending areas, cost drivers, and savings opportunities.
+- Provides insights that support better budget control and financial decision-making.
 
 ## Project Workflow
-
 Python Cleaning → SQL Analysis → Power BI Dashboard
 
-<img width="713" height="415" alt="image" src="https://github.com/user-attachments/assets/4e3bf3b8-dd36-419f-80f8-04917c9ce650" />
+## Dashboard
+<img width="1160" height="639" alt="image" src="https://github.com/user-attachments/assets/3a35ec61-31be-4837-b8ce-968a6a58a374" />
+
